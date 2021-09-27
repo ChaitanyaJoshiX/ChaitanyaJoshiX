@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Chaitanya. Staff Engineer @Google
+- 👋 Hey, I’m Chaitanya. 
 - 👀 I’m currently hooked onto Python, Java and C++ dev. 
 - 📫 Link in bio.
 - Cheerio.
