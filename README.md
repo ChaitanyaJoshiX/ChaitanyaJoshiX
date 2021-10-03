@@ -1,4 +1,3 @@
 - 👋 Hey, I’m Chaitanya. 
-- 👀 I’m currently hooked onto Python, Java and C++ dev. 
-- 📫 Link in bio.
+- 👀 Currently wayfaring through the bright alleys of Python, Java and C++. 
 - Cheerio.
