@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaJoshiX&layout=compact)](https://github.com/ChaitanyaJoshiX/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChaitanyaJoshiX)](https://github.com/ChaitanyaJoshiX/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chaitanya)](https://github.com/ChaitanyaJoshiX/github-readme-stats)
