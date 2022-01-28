@@ -1,7 +1,7 @@
 # 💫About Me :
 💡 I'm currently working on Py and C++
 
-🕺 I'm looking for help with backend
+🕺 I'm looking to help with backend
 
 🌱 I'm currently learning GUI
 
