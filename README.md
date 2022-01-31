@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning GUI
 
-⚡ Fun fact I'm 16
+⚡ I'm 16
 
 
 ## 🌐Socials
