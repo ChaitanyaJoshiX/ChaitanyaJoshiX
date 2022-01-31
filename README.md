@@ -1,8 +1,6 @@
 # 💫About Me :
 💡 I'm currently working on Py and C++
 
-🕺 I'm looking to contribute to backend
-
 🌱 I'm currently learning GUI
 
 ⚡ Fun fact I'm 16
