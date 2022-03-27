@@ -1,7 +1,7 @@
 # 💫About Me :
-💡 I'm currently working on Py and C++
+💡 Currently working on Py and C++
 
-🌱 I'm currently learning GUI
+🌱 Exams going on :) 
 
 ⚡ 17
 
