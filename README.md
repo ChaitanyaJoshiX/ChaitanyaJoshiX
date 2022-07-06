@@ -1,6 +1,8 @@
 # 💫About Me :
 💡 Currently working on Py and C++
+
 ⚡ 17
+
 🍕 Send pizza thanks :) 
 
 
