@@ -1,7 +1,7 @@
 # A lil about Me :
-💡 Working on C, Arduino and Py 
+💡 Working on Py and Arduino 
 
-⚡ 18
+⚡ 19
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
